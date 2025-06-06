@@ -128,6 +128,64 @@ INSERT INTO weather_conditions (region_id, date, temperature_celsius, humidity_p
 ![image](https://github.com/user-attachments/assets/616f0c1c-7a42-4b7d-8728-55f6ad2ad3bc)
 
 
+## 🔍 **Insights**
+
+### 1. **Top Energy-Consuming Regions**
+
+* **South region** consistently recorded the **highest energy consumption**, followed by **North**, and then **East**.
+* Despite having a higher population, **South's per capita energy usage** is significantly higher, indicating **potential inefficiency**.
+
+### 2. **Low Consumption Regions**
+
+* **East region** showed the **lowest total and per capita energy consumption**. However, its energy usage **spikes during certain hours**, indicating **intermittent high demand**.
+
+### 3. **Peak Usage Hours**
+
+* Across all regions, **peak energy consumption occurred between 6 PM and 9 PM**, aligning with post-work residential activities.
+* Minimal usage was recorded **between 1 AM and 5 AM**, which could support load-shedding or maintenance windows.
+
+### 4. **Day-to-Day Consumption Trends**
+
+* Slight increases in consumption on the **second day (March 2)** across most regions, despite similar weather conditions—could be due to **weekend activities** or **region-specific events**.
+
+### 5. **Weather & Energy Use Correlation**
+
+* **Higher temperatures and humidity levels in the South** correlated with higher energy usage, possibly due to **increased use of cooling systems**.
+* The **East, despite lower temperature and humidity**, had unexpectedly high nighttime usage—may indicate **industrial or commercial activity**.
+
+---
+
+## ✅ **Recommendations**
+
+### 1. **Optimize Energy Allocation**
+
+* **Prioritize energy supply** to the South region during **6–9 PM** due to consistently high demand.
+* Consider **increasing baseline supply** in the North during early morning hours to meet gradual rising demand.
+
+### 2. **Implement Energy Efficiency Campaigns**
+
+* **Educate high-use regions (especially South)** on energy-saving habits.
+* Encourage the use of **energy-efficient appliances and insulation** to reduce the impact of climate on consumption.
+
+### 3. **Time-Based Energy Pricing**
+
+* Introduce **differential pricing** (time-of-use tariffs) to **incentivize off-peak energy use**, especially for industrial users in East and South regions.
+
+### 4. **Install Smart Grids in Key Areas**
+
+* Deploy **smart meters and IoT-based monitoring** in South and North regions to better track real-time usage and automate load balancing.
+
+### 5. **Forecasting & Demand Planning**
+
+* Use historical consumption patterns and weather data to **predict future energy demand**, especially during hot seasons or events.
+
+### 6. **Energy Source Diversification**
+
+* Given the consistent demand peaks, explore **alternative/renewable energy integration** (e.g., solar storage systems in the South) to reduce pressure on the main grid.
+
+
+
+
 
 
 
