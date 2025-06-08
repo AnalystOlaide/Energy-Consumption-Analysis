@@ -97,7 +97,7 @@ INSERT INTO weather_conditions (region_id, date, temperature_celsius, humidity_p
 - **Rankings & Comparisons**: Identifying top energy-consuming regions.
 - **Joins & Subqueries**: Combining datasets for richer insights.
 
-## Insights
+## Question, Query and Output
 ![image](https://github.com/user-attachments/assets/2b1e8ef8-8b57-4514-ba2c-ec4b551d6c90)
 ![image](https://github.com/user-attachments/assets/5408411a-a2cb-4f15-a1af-3bbbbab3eed6)
 ![image](https://github.com/user-attachments/assets/30448e5f-c3e3-41d0-9f42-3b475109777b)
